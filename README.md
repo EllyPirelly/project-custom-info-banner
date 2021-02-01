@@ -8,8 +8,9 @@
 
 ### This Repo is based on:
 
-- built from scratch according to delivered design
-- display of all color schemes for visual purposes, in practice this should be editable by stakeholder
+- built from scratch according to delivered design / stakeholder request
+- display of all color schemes for visual purposes, in practice, a stakeholder should be able to select the desired color in a single banner
+- obviously the "more" button should lead to more information
 
 ### How to run this?
 
